@@ -34,16 +34,22 @@ A simple and elegant task management app built with React. You can add and remov
 ## 📂 Folder Structure
 
 ```
-my-task-app/
-├── public/
+my-task-app/         
 ├── src/
-│ ├── components/
-│ │ └── TaskItem.js
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── components/
+│       ├── myComponent.jsx
+│       └── TaskItem.jsx
+├── .gitignore             
 ├── package.json
-└── README.md
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js      
+├── README.md
+├── index.html  
+```
 ```
 ---
 
