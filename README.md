@@ -18,7 +18,7 @@ A simple and elegant task management app built with React. You can add and remov
 
 ## 🖼️ Preview
 
-![Task List Preview](https://via.placeholder.com/600x300?text=React+Task+List+Preview) <!-- Optional: replace with actual screenshot -->
+![Captura de tela 2025-05-04 121548](https://github.com/user-attachments/assets/0a365aff-0a95-44bf-bfdd-7ac90de7947c)
 
 ---
 
@@ -33,6 +33,7 @@ A simple and elegant task management app built with React. You can add and remov
 
 ## 📂 Folder Structure
 
+```
 my-task-app/
 ├── public/
 ├── src/
@@ -43,7 +44,7 @@ my-task-app/
 │ └── index.js
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## 💻 Getting Started
