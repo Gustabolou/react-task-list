@@ -49,7 +49,7 @@ my-task-app/
 ├── eslint.config.js      
 ├── README.md
 ├── index.html  
-```
+
 ```
 ---
 
