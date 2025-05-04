@@ -68,7 +68,7 @@ cd react-task-list
 npm install
 ```
 
-3. Run the app
+### 3. Run the app
 
 ```bash
 npm start
