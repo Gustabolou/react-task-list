@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import TaskItem from "./TaskItem";
+import TaskItem from "../components/TaskItem";
 
 function MyComponent() {
     const [tasks, setTasks] = useState([]);

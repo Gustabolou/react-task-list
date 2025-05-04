@@ -1,4 +1,4 @@
-import MyComponent from "./myComponent";
+import MyComponent from "./components/myComponent.jsx";
 
 function App() {
 
