@@ -62,24 +62,19 @@ git clone https://github.com/Gustabolou/react-task-list.git
 cd react-task-list
 ```
 
-```bash
-2. Install dependencies
-```
+### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-```bash
 3. Run the app
-```
 
 ```bash
 npm start
 ```
 
 The app will be available at http://localhost:3000.
-
 
 ### 📌 Project Structure Details
 
@@ -106,6 +101,7 @@ The app will be available at http://localhost:3000.
 - 🧪 Unit tests (Jest + React Testing Library)
 
 ### 🤝 Contributing
+
 Contributions, issues and feature requests are welcome!
 Feel free to check the issues page.
 
